@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+<name>Point 1</name>
+<Point>
+<coordinates>16.861389,100.936667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Point 2</name>
+<Point>
+<coordinates>35.99556061825449,97.13064362556435,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Point 3</name>
+<Point>
+<coordinates>52.21672805932738,86.29200605932738,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Point 4</name>
+<Point>
+<coordinates>63.055365625564335,70.0708386182545,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Point 5</name>
+<Point>
+<coordinates>66.861389,50.936667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Point 6</name>
+<Point>
+<coordinates>63.055365625564335,31.802495381745512,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Point 7</name>
+<Point>
+<coordinates>52.21672805932738,15.58132794067263,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Point 8</name>
+<Point>
+<coordinates>35.995560618254494,4.742690374435661,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Point 9</name>
+<Point>
+<coordinates>16.861389000000006,0.9366669999999999,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Point 10</name>
+<Point>
+<coordinates>-2.2727826182544852,4.742690374435661,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Point 11</name>
+<Point>
+<coordinates>-18.49395005932737,15.581327940672615,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Point 12</name>
+<Point>
+<coordinates>-29.332587625564326,31.802495381745484,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Point 13</name>
+<Point>
+<coordinates>-33.138611,50.93666699999999,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Point 14</name>
+<Point>
+<coordinates>-29.332587625564333,70.0708386182545,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Point 15</name>
+<Point>
+<coordinates>-18.493950059327386,86.29200605932738,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Point 16</name>
+<Point>
+<coordinates>-2.2727826182545208,97.13064362556432,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 1 Point 1</name>
+<Point>
+<coordinates>16.861389,100.936667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 1 Point 2</name>
+<Point>
+<coordinates>16.861389,125.936667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 1 Point 3</name>
+<Point>
+<coordinates>16.861389,150.936667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 1 Point 4</name>
+<Point>
+<coordinates>16.861389,175.936667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 2 Point 1</name>
+<Point>
+<coordinates>52.21672805932738,86.29200605932738,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 2 Point 2</name>
+<Point>
+<coordinates>69.89439758899107,103.96967558899107,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 2 Point 3</name>
+<Point>
+<coordinates>87.57206711865476,121.64734511865475,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 2 Point 4</name>
+<Point>
+<coordinates>105.24973664831845,139.32501464831844,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 3 Point 1</name>
+<Point>
+<coordinates>66.861389,50.936667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 3 Point 2</name>
+<Point>
+<coordinates>91.861389,50.93666700000001,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 3 Point 3</name>
+<Point>
+<coordinates>116.861389,50.93666700000001,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 3 Point 4</name>
+<Point>
+<coordinates>141.861389,50.93666700000001,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 4 Point 1</name>
+<Point>
+<coordinates>52.21672805932738,15.58132794067263,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 4 Point 2</name>
+<Point>
+<coordinates>69.89439758899107,-2.0963415889910593,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 4 Point 3</name>
+<Point>
+<coordinates>87.57206711865476,-19.77401111865474,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 4 Point 4</name>
+<Point>
+<coordinates>105.24973664831845,-37.45168064831843,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 5 Point 1</name>
+<Point>
+<coordinates>16.861389000000006,0.9366669999999999,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 5 Point 2</name>
+<Point>
+<coordinates>16.86138900000001,-24.063333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 5 Point 3</name>
+<Point>
+<coordinates>16.86138900000001,-49.063333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 5 Point 4</name>
+<Point>
+<coordinates>16.861389000000013,-74.063333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 6 Point 1</name>
+<Point>
+<coordinates>-18.49395005932737,15.581327940672615,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 6 Point 2</name>
+<Point>
+<coordinates>-36.171619588991064,-2.0963415889910735,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 6 Point 3</name>
+<Point>
+<coordinates>-53.84928911865474,-19.77401111865477,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 6 Point 4</name>
+<Point>
+<coordinates>-71.52695864831843,-37.45168064831846,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 7 Point 1</name>
+<Point>
+<coordinates>-33.138611,50.93666699999999,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 7 Point 2</name>
+<Point>
+<coordinates>-58.138611,50.936666999999986,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 7 Point 3</name>
+<Point>
+<coordinates>-83.138611,50.93666699999998,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 7 Point 4</name>
+<Point>
+<coordinates>-108.138611,50.93666699999998,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 8 Point 1</name>
+<Point>
+<coordinates>-18.493950059327386,86.29200605932738,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 8 Point 2</name>
+<Point>
+<coordinates>-36.17161958899108,103.96967558899105,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 8 Point 3</name>
+<Point>
+<coordinates>-53.84928911865477,121.64734511865474,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Axis 8 Point 4</name>
+<Point>
+<coordinates>-71.52695864831846,139.32501464831842,0</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
